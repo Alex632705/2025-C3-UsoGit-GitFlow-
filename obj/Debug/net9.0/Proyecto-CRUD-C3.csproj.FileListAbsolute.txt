@@ -1,0 +1,14 @@
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\bin\Debug\net9.0\Proyecto-CRUD-C3.exe
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\bin\Debug\net9.0\Proyecto-CRUD-C3.deps.json
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\bin\Debug\net9.0\Proyecto-CRUD-C3.runtimeconfig.json
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\bin\Debug\net9.0\Proyecto-CRUD-C3.dll
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\bin\Debug\net9.0\Proyecto-CRUD-C3.pdb
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\Proyecto-CRUD-C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\Proyecto-CRUD-C3.AssemblyInfoInputs.cache
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\Proyecto-CRUD-C3.AssemblyInfo.cs
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\Proyecto-CRUD-C3.csproj.CoreCompileInputs.cache
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\Proyecto-CRUD-C3.dll
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\refint\Proyecto-CRUD-C3.dll
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\Proyecto-CRUD-C3.pdb
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\Proyecto-CRUD-C3.genruntimeconfig.cache
+C:\Users\alex1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\New folder\CRUD-P3\Proyecto-CRUD-C3\obj\Debug\net9.0\ref\Proyecto-CRUD-C3.dll
