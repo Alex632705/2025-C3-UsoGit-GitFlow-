@@ -1,9 +1,11 @@
 ﻿using System;
-
-class Program
+namespace ProyectoCRUD
 {
-    static void Main()
+    class Program
     {
-        Console.WriteLine("Product CRUD App- Alex Rodríguez");
+        static void Main()
+        {
+            Console.WriteLine("Product CRUD App- Alex Rodríguez");
+        }
     }
 }
